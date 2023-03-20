@@ -1,0 +1,23 @@
+.form__button--count {
+    text-align: center;
+}
+
+.form__button {
+    display: inline-block;
+    background-color: #e49696;
+    padding: 15px;
+    width: 300px;
+    border-width: 2px;
+    border-color: rgb(241, 68, 68);
+    border-radius: 5px;
+}
+
+.form__button:hover {
+    background-color: #9a4444;
+    color: white;
+}
+
+.form__button:active {
+    background-color: #d25e5e;
+    color: white;
+}

@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.heading {
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.section {
+    line-height: 1.5;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    -webkit-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    -moz-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+}
