@@ -13,10 +13,15 @@
 
 .form__legend {
     display: block;
-    background-color: #304ef8;
+    background-color: #4761f4;
     color: white;
     padding: 10px;
     border-radius: 5px;
+    border-color: rgb(57, 66, 227);
+    border-style: groove;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
 }
 
 .form__labelText {
@@ -25,6 +30,7 @@
     display: inline-block;
     margin-right: 5px;
     color: white;
+    font-size: 50px;
 }
 
 .form__field--filled {
