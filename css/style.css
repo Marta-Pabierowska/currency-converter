@@ -16,6 +16,7 @@ html {
     display: inline-block;
     line-height: 1.5;
     text-align: center;
+    color:rgb(4, 12, 176);
 }
 
 .section {
@@ -24,7 +25,7 @@ html {
     padding: 30px;
     margin: 30px;
     border-radius: 10px;
-    -webkit-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    -moz-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
 }

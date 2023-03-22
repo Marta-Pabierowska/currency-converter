@@ -4,7 +4,7 @@
 
 .form__button {
     display: inline-block;
-    background-color: #e49696;
+    background-color: rgb(243, 163, 228);
     padding: 15px;
     width: 300px;
     border-width: 2px;
@@ -13,11 +13,11 @@
 }
 
 .form__button:hover {
-    background-color: #9a4444;
+    background-color: #d61ca8;
     color: white;
 }
 
 .form__button:active {
-    background-color: #d25e5e;
+    background-color: #e854b9;
     color: white;
 }

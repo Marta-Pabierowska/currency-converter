@@ -1,29 +1,30 @@
 .footer {
+    color:rgb(4, 12, 176);
     line-height: 1.5;
     text-align: center;
     padding: 15px 30px 15px 30px;
     margin: 30px;
     border-radius: 20px;
-    -webkit-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    -moz-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
 }
 
 .footer__link {
     display: inline-block;
-    background-color: #b591f5;
-    color: black;
+    background-color: #304ef8;
+    color: white;
     width: 100%;
     max-width: 400px;
     padding: 20px 20px;
     border-radius: 5px;
-    -webkit-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    -moz-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
 }
 
 .footer__link:visited {
-    background-color: #b591f5;
+    background-color: #304ef8;
 }
 
 .footer__link:hover {

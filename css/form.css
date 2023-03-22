@@ -1,19 +1,19 @@
 .form__fieldset {
-    background-color: #b591f5;
+    background-image: url("../images/blue.jpg");
     text-align: left;
     font-size: 20px;
     padding: 30px;
     max-width: 1000px;
     border-color: #8b84ec;
     border-radius: 10px;
-    -webkit-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    -moz-box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
-    box-shadow: 1px 0px 57px -4px rgba(36, 113, 103, 1);
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
+    box-shadow: 8px 8px 24px 0px rgba(80, 88, 223, 1);
 }
 
 .form__legend {
     display: block;
-    background-color: #823df9;
+    background-color: #304ef8;
     color: white;
     padding: 10px;
     border-radius: 5px;
@@ -24,10 +24,11 @@
     max-width: 300px;
     display: inline-block;
     margin-right: 5px;
+    color: white;
 }
 
 .form__field--filled {
-    background-color: #e1d3f8;
+    background-color: #bdcaf6;
 }
 
 .form__field {
@@ -39,38 +40,15 @@
 
 }
 
-.form__button--count {
-    text-align: center;
-}
-
-.form__button {
-    display: inline-block;
-    background-color: #e49696;
-    padding: 15px;
-    width: 300px;
-    border-width: 2px;
-    border-color: rgb(241, 68, 68);
-    border-radius: 5px;
-}
-
-.form__button:hover {
-    background-color: #9a4444;
-    color: white;
-}
-
-.form__button:active {
-    background-color: #d25e5e;
-    color: white;
-}
-
 .form__information {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
 }
 
 .form__result {
     margin: 40% 10% 40% 40%;
     font-size: 30px;
+    color: white;
 }
 
 .form__clue {
