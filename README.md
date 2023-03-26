@@ -1,5 +1,7 @@
 # Marta Pabierowska - Currency-converter.
 
+![currency-converter](https://github.com/Marta-Pabierowska/currency-converter/blob/main/images/Currency-converter1.png?raw=true)
+
 ## Demo
 
 https://marta-pabierowska.github.io/currency-converter/
