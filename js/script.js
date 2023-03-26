@@ -3,6 +3,8 @@
         console.log("WELCOME!");
     }
 
+    welcome();
+    
     const calculateResult = (amount, currency) => {
         const rateUSD = 4.42;
         const rateEUR = 4.70;

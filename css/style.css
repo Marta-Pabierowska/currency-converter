@@ -10,6 +10,12 @@ html {
     max-width: 1000px;
     margin: 0 auto;
     font-family: 'Lato', sans-serif;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/istockphoto-1369748264-612x612.jpg);
+    background-size: cover;
+background-position: center;
 }
 
 .heading {

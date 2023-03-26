@@ -29,12 +29,12 @@
 }
 
 .footer__link:hover {
-    background-color: #9a4444;
+    background-color: #d61ca8;
     color: white;
     outline: none;
 }
 
 .footer__link:active {
-    background-color: #d25e5e;
+    background-color: #e854b9;
     color: white;
 }
