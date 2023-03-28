@@ -13,7 +13,7 @@
 
 .footer__link {
     display: inline-block;
-    background-color: #304ef8;
+    background-color: #5b95f1;
     color: white;
     width: 100%;
     max-width: 400px;
@@ -25,7 +25,7 @@
 }
 
 .footer__link:visited {
-    background-color: #304ef8;
+    background-color: #5b95f1;
 }
 
 .footer__link:hover {
